@@ -1,0 +1,14 @@
+/* #navbar{
+    background-color: red;
+} */
+body{
+    background-color: aqua;
+}
+.container-fluid{
+padding: none;
+}
+footer{
+    display: block;
+    text-align: right;
+    padding-right: 2%;
+  }
